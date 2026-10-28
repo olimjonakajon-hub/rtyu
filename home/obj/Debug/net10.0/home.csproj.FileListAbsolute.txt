@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\home vork\home\bin\Debug\net10.0\home.exe
+C:\Users\HP\Desktop\home vork\home\bin\Debug\net10.0\home.deps.json
+C:\Users\HP\Desktop\home vork\home\bin\Debug\net10.0\home.runtimeconfig.json
+C:\Users\HP\Desktop\home vork\home\bin\Debug\net10.0\home.dll
+C:\Users\HP\Desktop\home vork\home\bin\Debug\net10.0\home.pdb
+C:\Users\HP\Desktop\home vork\home\obj\Debug\net10.0\home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\home vork\home\obj\Debug\net10.0\home.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\home vork\home\obj\Debug\net10.0\home.AssemblyInfo.cs
+C:\Users\HP\Desktop\home vork\home\obj\Debug\net10.0\home.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\home vork\home\obj\Debug\net10.0\home.dll
+C:\Users\HP\Desktop\home vork\home\obj\Debug\net10.0\refint\home.dll
+C:\Users\HP\Desktop\home vork\home\obj\Debug\net10.0\home.pdb
+C:\Users\HP\Desktop\home vork\home\obj\Debug\net10.0\home.genruntimeconfig.cache
+C:\Users\HP\Desktop\home vork\home\obj\Debug\net10.0\ref\home.dll
